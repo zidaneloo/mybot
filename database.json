@@ -1,0 +1,825 @@
+{
+  "chats": {
+    "6282389924037@s.whatsapp.net": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false
+    },
+    "120363427739869496@g.us": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false
+    },
+    "247278463934489@lid": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "antilink2": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "242137790681132@lid": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "antilink2": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "254770110424-1533273368@g.us": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "antilink2": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "120363079874818907@g.us": {
+      "antilink": true,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false
+    },
+    "120363078902270000@g.us": {
+      "name": "RENTAL BOT",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "108968353525869@lid": {
+      "name": "",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "155563866480763@lid": {
+      "name": "",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "6283872659753@s.whatsapp.net": {
+      "name": "",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "53211054485633@lid": {
+      "name": "",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "120363049172699602@g.us": {
+      "name": "TES V1",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {},
+      "badwords": []
+    },
+    "120363405664464525@g.us": {
+      "name": "",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {
+        "sewa *pricelist sewa bot by sherin*": {
+          "key": "SEWA *PRICELIST SEWA BOT BY SHERIN*",
+          "text": "> order or tnya² pc me : wa.me/6285757845929\n10k = 30 day\n20k = 60 day\n30k = 90 day\n40k = 120 day\n45k = 150 day\n50k = 180 day\n\nNote ; \n- bot always on 24 jam no mati² ya bestt kec no ke banned\n- bisa untuk smua jenis grub, kec grub 18+\n- fitur? pasti banyak dong guyss!!",
+          "media": null,
+          "createdAt": 1790878147603,
+          "updatedAt": 1790878147603,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "sewa": {
+          "key": "sewa",
+          "text": "*PRICELIST SEWA BOT BY SHERIN*\n> order or tnya² pc me : wa.me/6285757845929\n10k = 30 day\n20k = 60 day\n30k = 90 day\n40k = 120 day\n45k = 150 day\n50k = 180 day\n\nNote ; \n- bot always on 24 jam no mati² ya bestt kec no ke banned\n- bisa untuk smua jenis grub, kec grub 18+\n- fitur? pasti banyak dong guyss!!",
+          "media": null,
+          "createdAt": 1790878292557,
+          "updatedAt": 1790878292557,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        }
+      },
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "120363364584283764@g.us": {
+      "name": "",
+      "antilink": false,
+      "antilink2": true,
+      "antilinkKick": true,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {
+        "meitu": {
+          "key": "meitu",
+          "text": "meitu vip\n\n     ⋆ private account \n        ⊹ 1 minggu : 7.000\n    ‌   khusus untuk android\n    ‌   tidak bisa login ios ‼️\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n    ‌   𖥻 akun dari seller\n    ‌   𖥻 cuma untuk fitur filter\n    ‌   𖥻 garansi bf 5 - 7h \n    ‌   𖥻 khusus device andro\n    ‌   𖥻 membeli : setuju ✅\n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878383580,
+          "updatedAt": 1790878383580,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "zoom": {
+          "key": "zoom",
+          "text": ".\n                   zoom \n\n     ⋆ private account \n        ⊹ 14 hari : 8.000\n\n       ━ read note's ⚠️\n    ‌   𖥻 akun dari seller \n    ‌   𖥻 100 peserta \n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878383698,
+          "updatedAt": 1790878383698,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "youtube": {
+          "key": "youtube",
+          "text": "youtube\n\n     ⋆ famplan account\n        ⊹ 1 bulan : 5.500\n\n     ⋆ individual account \n        ⊹ 1 bulan : 20.000\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n    ‌   𖥻 fam : akun buyer\n    ‌   individual : akun seller\n    ‌   𖥻 garansi bf & disable\n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 3 day 💗\n    ‌",
+          "media": null,
+          "createdAt": 1790878384150,
+          "updatedAt": 1790878384150,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "youku": {
+          "key": "youku",
+          "text": ".\n                    youku\n\n     ⋆ sharing account\n        ⊹ 1 bulan : 5.000\n        ⊹ 3 bulan : 7.500\n        ⊹ 1 tahun : 9.000\n\n     ⋆ private account \n        ⊹ 1 bulan : 30.000\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n    ‌   𖥻 akun dari seller\n    ‌   𖥻 share tidak bisa log tv\n    ‌   𖥻 dur 1 tahun garansi 6b\n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 3 day 💗",
+          "media": null,
+          "createdAt": 1790878384553,
+          "updatedAt": 1790878384553,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "wink": {
+          "key": "wink",
+          "text": "wink\n\n     ⋆ private wink acc\n        ⊹ 7 hari : 8.000\n        - login android only 🔉\n\n     ⋆ private wink vip+ acc\n        ⊹ 7 hari : 10.000\n        - bisa ios / android 🔉\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n    ‌   𖥻 akun dari seller\n    ‌   𖥻 garansi 1x replace\n    ‌   apabila gagal premium\n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 3 day 💗\n    ‌",
+          "media": null,
+          "createdAt": 1790878384998,
+          "updatedAt": 1790878384998,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "wetv": {
+          "key": "wetv",
+          "text": "wetv \n\n     ⋆ sharing account 8u\n        ⊹ 1 bulan : 8.000\n\n     ⋆ sharing account 6u\n        ⊹ 1 bulan : 10.500\n\n     ⋆ sharing account 3u (anlim)\n        ⊹ 1 bulan : 16.000\n\n     ⋆ private account\n        ⊹ 1 bulan : 37.000\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n    ‌   𖥻 akun dari seller \n    ‌   𖥻 garansi bf only ‼️\n    ‌   𖥻 3u & priv : bisa di dev tv\n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 3 day 💗\n    ‌",
+          "media": null,
+          "createdAt": 1790878385356,
+          "updatedAt": 1790878385356,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "viu": {
+          "key": "viu",
+          "text": "‌viu \n\n     ⋆ private account \n        ⊹ 1 bulan : 2.000\n        ⊹ 3 bulan : 3.500\n        ⊹ 6 bulan : 4.500\n        ⊹ 12 bulan : 7.000\n\n     ⋆ private account \n        ⊹ lifetime : 9.000\n        garansi cuma 8 bulan ❗\n        durasi akun (-+) 200 thn\n\n       ━ read note's ⚠️\n    ‌   𖥻 semua akun dari seller  \n    ‌   𖥻 plan anti limit \n    ‌   𖥻 lifetime garansi 8 bulan\n    ‌   𖥻 fixing 0 - 3 day ⏰",
+          "media": null,
+          "createdAt": 1790878385785,
+          "updatedAt": 1790878385785,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "vidio": {
+          "key": "vidio",
+          "text": "‌  vidio\n\n     ⋆ platinum mobile private \n        ⊹ 1 bulan : 35.000\n\n     ⋆ platinum mobile 2u \n        ⊹ 1 bulan : 23.000\n\n     ⋆ platinum tv only private \n        ⊹ 1 bulan : 15.000\n        tetap ada iklan di awal ‼️\n\n     ⋆ platinum tv only 2u \n        ⊹ 1 bulan : 12.000\n        tetap ada iklan di awal ‼️\n\n     ⋆ 𝗻𝗲𝗲𝗱 𝗽𝗹𝝰𝗻 𝗹𝝰𝗶𝗻? ask me\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n    ‌   𖥻 akun dari seller\n    ‌   𖥻 mob: bisa di hp & tab\n    ‌   tv only : cuma bisa di tv\n    ‌   𖥻 buyer salah plan & tida\n    ‌   bisa nonton film yg akan\n    ‌   di tonton? : no refund !! \n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 3 day 💗\n    ‌",
+          "media": null,
+          "createdAt": 1790878474091,
+          "updatedAt": 1790878474091,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "spotify": {
+          "key": "spotify",
+          "text": "spotify\n\n     ⋆ individual account\n        ⊹ 1 bulan : 20.000\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n    ‌   𖥻 akun dari seller\n    ‌   𖥻 masih rawan akan \n    ‌   issue disable / non aktif\n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 4 day 💗\n    ‌",
+          "media": null,
+          "createdAt": 1790878474266,
+          "updatedAt": 1790878474266,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "scribd": {
+          "key": "scribd",
+          "text": "scribd \n\n     ⋆ sharing account\n        ⊹ 1 bulan : 6.000\n\n     ⋆ private account\n        ⊹ 1 bulan : 10.000\n\n       ━ read note's ⚠️\n    ‌   𖥻 akun dari seller \n    ‌   𖥻 𝗴𝝰𝗿𝝰𝗻𝘀𝗶 𝗯𝗳 𝗼𝗻𝗹𝘆    ‌   \n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878474657,
+          "updatedAt": 1790878474657,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "picsart": {
+          "key": "picsart",
+          "text": "picsart \n\n     ⋆ sharing account \n        ⊹ 1 bulan : 10.000\n\n     ⋆ private account \n        ⊹ 1 bulan : 15.000 \n\n       ━ read note's ⚠️\n    ‌   𖥻 semua akun dari seller \n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878475159,
+          "updatedAt": 1790878475159,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "netflix": {
+          "key": "netflix",
+          "text": "netflix \n\n     ⋆ netflix 1 user \n        ⊹ 1 minggu : 18.500\n        ⊹ 1 bulan : 40.000\n\n     ⋆ netflix 2 user\n        ⊹ 1 minggu : 15.000\n        ⊹ 1 bulan : 25.000\n\n     ⋆ netflix semi private \n        ⊹ 1 bulan : 48.000\n\n       ━ read note's ⚠️\n    ‌   𖥻 semua akun dari seller\n    ‌   𖥻 sedang *HIGH DEMAND* \n    ‌   bakalan banyak trouble ‼️\n    ‌   𖥻 membeli = setuju ✅  \n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878475562,
+          "updatedAt": 1790878475562,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "loklok": {
+          "key": "loklok",
+          "text": "loklok \n\n     ⋆ basic plan 4u\n        ⊹ 1 bulan : 20.000\n\n     ⋆ standard plan 4u\n        ⊹ 1 bulan : 23.000 \n        - bisa login ke tv 🔊\n\n     ⋆ private account\n        ⊹ 1b basic : 52.000\n        ⊹ 1b std : 75.000\n\n       ━ read note's ⚠️\n    ‌   𖥻 semua akun dari seller \n    ‌   𖥻 perbedaan? PC me!\n    ‌   𖥻 𝗴𝝰𝗿𝝰𝗻𝘀𝗶 𝗯𝗳 𝗼𝗻𝗹𝘆 ‼️  \n    ‌   𖥻 get acces otp mandiri ✅\n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878476233,
+          "updatedAt": 1790878476233,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "iqiyi": {
+          "key": "iqiyi",
+          "text": "iqiyi\n\n     ⋆ sharing plan premium\n        ⊹ 1 bulan : 3.000\n        ⊹ 3 bulan : 5.000\n        ⊹ 1 tahun : 6.500\n        tidak boleh login tv ‼️\n\n     ⋆ anlim plan premium\n        ⊹ 1 bulan 4u : 10.000\n        boleh login di tv ✅\n\n     ⋆ private account\n        ⊹ 1 bulan std : 26.000\n        ⊹ 1 bulan premium : 30.000\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n       𖥻 kalau ambil iqiyi sharing biasa (bukan anlim/private) wajib terima resiko kalau limit lama ataupun sering ke out ya! kalau merasa tidak sanggup bisa ambil anlim atau private🫰🏻\n    ‌   𖥻 akun dari seller\n    ‌   𖥻 dur 1 tahun garansi 6b\n    ‌   𖥻 perbedaan plan? PC me!\n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 3 day 💗\n    ‌",
+          "media": null,
+          "createdAt": 1790878476635,
+          "updatedAt": 1790878476635,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "get contact": {
+          "key": "get contact",
+          "text": "get contact\n\n     ⋆ private account \n        ⊹ 1 bulan : 12.000\n\n       ━ read note's ⚠️\n    ‌   𖥻 nomor dari buyer\n    ‌   𖥻 proses harus janjian ✅\n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878477091,
+          "updatedAt": 1790878477091,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "disney": {
+          "key": "disney",
+          "text": "disney \n\n     ⋆ sharing 6u account \n        ⊹ 1 bulan : 32.000\n\n       ━ read note's ⚠️\n    ‌   𖥻 akun dari seller \n    ‌   𖥻 need otp ✅\n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878477535,
+          "updatedAt": 1790878477535,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "dazzcam": {
+          "key": "dazzcam",
+          "text": "dazzcam \n\n     ⋆ sharing account \n        ⊹ lifetime : 15.000\n\n       ━ read note's ⚠️\n    ‌   𖥻 𝗴𝝰𝗿𝝰𝗻𝘀𝗶 𝘀𝗲𝗹𝝰𝗺𝝰 6 𝗯𝘂𝗹𝝰𝗻 \n    ‌   𝗯𝘂𝗸𝝰𝗻 𝘀𝗲𝘂𝗺𝘂𝗿 𝗵𝗶𝗱𝘂𝗽 ‼️\n    ‌   𖥻 login via apple id seller \n    ‌   𖥻 wajib stay , need verif ✅\n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878477823,
+          "updatedAt": 1790878477823,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "chatgpt": {
+          "key": "chatgpt",
+          "text": "chatgpt go\n\n     ⋆ sharing 8 user\n        ⊹ 1 bulan : 16.000\n    ‌   - garansi bf & disable 2x\n\n     ⋆ sharing 3 user \n        ⊹ 1 bulan : 22.000\n    ‌   - garansi bf & disable 2x\n\n     ⋆ private account \n        ⊹ 1 bulan : 58.000\n    ‌   - fullgar bf & disable\n\n       ━ read note's ⚠️\n    ‌   𖥻 semua akun dari seller   \n    ‌   𖥻 garansi bf & disable 2x\n     ‌  𖥻 plan chatgpt go\n    ‌   𖥻 need otp! ✅\n    ‌   𖥻 fixing 0 - 3 day ⏰\n    ‌",
+          "media": null,
+          "createdAt": 1790878478194,
+          "updatedAt": 1790878478194,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "capcut": {
+          "key": "capcut",
+          "text": "capcut pro\n\n     ⋆ sharing 2 user \n        ⊹ 1 bulan : 25.000\n        - tidak bisa dev ios ‼️\n\n     ⋆ private account \n        ⊹ 1 minggu : 14.500\n        ⊹ 1 bulan : 46.000\n        - bisa dev ios ☑️\n        - bisa login laptop ☑️\n\n       ━ read note's ⚠️\n    ‌   𖥻 akun dari seller   \n    ‌   𖥻 login dev ios & laptop? \n    ‌   ambil capcut private ‼️\n    ‌   𖥻 sistem no renew  \n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 3 day 💗\n    ‌",
+          "media": null,
+          "createdAt": 1790878478576,
+          "updatedAt": 1790878478576,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "bstation": {
+          "key": "bstation",
+          "text": "bstation\n\n     ⋆ sharing account\n        ⊹ 1 bulan : 5.000\n        ⊹ 3 bulan : 9.000\n        ⊹ 1 tahun : 10.000\n\n     ⋆ private account \n        ⊹ 1 bulan : 33.000\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n    ‌   𖥻 akun dari seller\n    ‌   𖥻 share tidak bisa log tv\n    ‌   𖥻 dur 1 tahun garansi 6b\n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 3 day 💗\n    ‌",
+          "media": null,
+          "createdAt": 1790878478957,
+          "updatedAt": 1790878478957,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "canva": {
+          "key": "canva",
+          "text": "canva \n\n     ⋆ member & designer \n        ⊹ 1 minggu : 900p\n        ⊹ 1 bulan : 3.000\n        ⊹ 2 bulan : 5.500\n        ⊹ 3 bulan : 7.500\n        ⊹ 4 bulan : 10.000\n        ⊹ 6 bulan : 13.500\n        ⊹ 12 bulan : 15.000\n\n     ⋆ education lifetime \n        ⊹ garansi 6 bulan : 16.000\n        ⊹ garansi 1 tahun : 20.000\n\n     ⋆ head atau owner \n        ⊹ 1 bulan : 13.000\n\n       ━ read note's ⚠️\n    ‌   𖥻 mem & edu email cust \n    ‌   𖥻 head akun dari seller \n    ‌   𖥻 𝗰𝝰𝗻𝘃𝝰 𝗺𝗲𝗺 𝗱𝘂𝗿𝝰𝘀𝗶 𝗱𝗶𝝰𝘁𝝰𝘀\n    ‌   1 𝗯𝘂𝗹𝝰𝗻 𝘀𝗶𝘀𝘁𝗲𝗺 𝗿𝗲𝗻𝗲𝘄𝝰𝗹 𝗽𝗲𝗿 -\n    ‌   𝗯𝘂𝗹𝝰𝗻 𝗱𝗶 𝘁𝗲𝝰𝗺 𝘆𝝰𝗻𝗴 𝗯𝗲𝗿𝗯𝗲𝗱𝝰\n    ‌   𖥻 perbedaan? PC me!\n    ‌   𖥻 membeli : setuju ✅\n    ‌",
+          "media": null,
+          "createdAt": 1790878479504,
+          "updatedAt": 1790878479504,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "alight motion": {
+          "key": "alight motion",
+          "text": "alight motion\n\n     ⋆ sharing account\n        ⊹ 1 bulan : 3.000\n        ⊹ 1 tahun : 4.000\n\n     ⋆ private account \n        ⊹ 1 tahun : 7.500\n\n       ━ *𝗿𝗲𝗮𝗱 𝗻𝗼𝘁𝗲'𝘀* ⚠️\n    ‌   𖥻 akun dari seller\n    ‌   𖥻 login email generator\n    ‌   𖥻 dur 1 tahun garansi 6b\n    ‌   𖥻 membeli : setuju ☑️\n    ‌   𖥻 fixing 0 - 3 day 💗\n    ‌",
+          "media": null,
+          "createdAt": 1790878479831,
+          "updatedAt": 1790878479831,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "kebsos": {
+          "key": "kebsos",
+          "text": "𝅄  ʚ 👧🏻ㅤ̫ ⠸𝐏𝐑𝐈𝐂𝐄𝐋𝐈𝐒𝐓 𝐊𝐄𝐁𝐒𝐎𝐒 𝐒𝐇𝐄𝐑𝐈𝐍 𝐒𝐓𝐎𝐑𝐄\n*[ TERSEDIA KEBSOS TELEGRAM, FACEBOOK, SPOTIFY, THREADS, TWITTER, SHOPE, LAZADA, BIGO LIVE, SNACK VIDIO DLL. mau liat pricelist nya? boleh pc aja yaa❕gak ku simpan disini karna pasti kepanjangan🫰🏻]*\n> contact order : wa.me/6285757845929\n*all info & all pricelist sherin : https://whatsapp.com/channel/0029VaKeGCNI1rcmJYoRCY0I*\n*penjelasan kebsos sherin : https://wa.me/p/7151827748247615/6285757845929*\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 views tiktok reffil 30d : 150p\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 like tiktok permanen : 600p\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 like tiktok no reffil : 300p\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 foll tiktok no reffil : 5.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 foll tiktok reffil 30d : 6.500\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 like story tiktok : 800p\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 share tiktok : 600p\n\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 foll instagram no reffil : 800p\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 foll instagram reffil 30d : 1.500\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 foll instagram reffil 90d : 9.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 like instagram no reffil : 110p\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 like instagram reffil 15d : 150p\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 like instagram reffil 30d : 350p\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 like instagram reffil 60d : 730p\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 100 like instagram permanen : 1.500\n\n❕note : \n© semua berlaku kelipatan!\n© pricelist kebsos lain? tnyakan ke sherin, gbsa list smua nnti kepanjangan.\n© proses fast tergntung web, akun private angus no koar², slma di proses di larang mengotak atik akun, jika di web sudah done bukan tnggung jwab sherin lagi! \n© all trx no reff! mksa? Blok!\n© membeli = paham!",
+          "media": null,
+          "createdAt": 1790878547649,
+          "updatedAt": 1790878547649,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "nokos v sms": {
+          "key": "nokos v sms",
+          "text": "𝅄  ʚ 👧🏻ㅤ̫ ⠸𝐏𝐑𝐈𝐂𝐄𝐋𝐈𝐒𝐓 𝐍𝐎𝐊𝐎𝐒 𝐒𝐇𝐄𝐑𝐈𝐍 𝐒𝐓𝐎𝐑𝐄\n> [ order pc sherin : wa.me/6285757845929 ] \n𝗇𝗈𝗄𝗐𝖺 𝖺ⲒⲒ 𝗐𝖺 𝗇𝗈𝗀𝖺𝗋 𝗍𝖺𝗄𝖾 𝗌𝖺𝗍𝗎𝖺𝗇 ፡ 10.000\n𝗇𝗈𝗄𝗐𝖺 𝗀𝖺𝗋𝖺𝗇𝗌𝗂 𝟣𝖻 ፡ 30.000\n𝗇𝗈𝗄𝗐𝖺 𝗀𝖺𝗋𝖺𝗇𝗌𝗂 𝗌𝖺𝗆𝗉𝖺𝗂 𝗄𝖺𝗋𝗍𝗎 𝗆𝖺𝗍𝗂 ፡ 45.000\n𝗇𝗈𝗄𝗍𝖾Ⲓ 𝖿𝗋𝖾𝗌𝗁 𝗇𝗈 𝗀𝖺𝗋𝖺𝗇𝗌𝗂 ፡ 10.000\n𝗇𝗈𝗄𝗍𝖾Ⲓ 𝖿𝗋𝖾𝗌𝗁 𝗀𝖺𝗋𝖺𝗇𝗌𝗂 𝟣𝖻 ፡ 28.000\n𝗇𝗈𝗄𝗈𝗌 𝖺𝗉𝗄 ፡ 3.500\n\n↺❕𝐍𝗈𝗍𝖾𝖽 ፡\n⟡᤻ ֺ ᳞ ּ᤺﹢ 𝖺𝖽𝖺 𝗁𝖺𝗋𝗀𝖺 𝗉𝖺𝗌𝗍𝗂𝗇𝗒𝖺 𝖺𝖽𝖺 𝗄𝗎𝖺Ⲓ𝗂𝗍𝖺𝗌 𝗒𝖺 𝖻𝖾𝗌𝗍\n⟡᤻ ֺ ᳞ ּ᤺﹢ 𝗇𝗈𝗄𝗐𝖺 𝗇𝗈𝗀𝖺𝗋 𝖻𝗎𝗄𝖺𝗇 𝖾𝗄𝗈𝗋𝖺𝗇٫ 𝗍𝖺𝗉𝗂 𝗂𝗇𝖽𝗎𝗄 𝖽𝖺𝗋𝗂 𝗄𝖺𝗋𝗍𝗎 𝗉𝖾𝗋𝖽𝖺𝗇𝖺 𝗒𝖺!\n⟡᤻ ֺ ᳞ ּ᤺﹢ 𝗇𝗈𝗄𝗈𝗌 𝗇𝗈 𝗀𝖺𝗋𝖺𝗇𝗌𝗂 𝗍𝖽𝗄 𝖻𝖾𝗋Ⲓ𝖺𝗄𝗎 𝗏𝖾𝗋𝗂𝖿 𝗎Ⲓ𝖺𝗇𝗀٫ 𝗌𝖾𝖽𝖺𝗇𝗀𝗄𝖺𝗇 𝗇𝗈𝗄𝗈𝗌 𝗀𝖺𝗋𝖺𝗇𝗌𝗂 𝖻𝖾𝗋Ⲓ𝖺𝗄𝗎 𝗏𝖾𝗋𝗂𝖿 𝗎Ⲓ𝖺𝗇𝗀 & 𝗉𝖺𝗌𝗍𝗂𝗇𝗒𝖺 +𝖿𝖾𝖾 𝗏𝖾𝗋𝗎Ⲓ\n⟡᤻ ֺ ᳞ ּ᤺﹢ 𝗇𝗈𝗄𝗐𝖺 𝗀𝖺𝗋𝖺𝗇𝗌𝗂 𝖻𝗂𝗌𝖺 𝖽𝗂 𝗉𝖺𝗄𝖺𝗂 sesuai kebutuhan ( 𝖺𝗌𝖺Ⲓ 𝖻𝗎𝗄𝖺𝗇 𝗌Ⲓ𝗈𝗍 𝗒𝖺! )\n⟡᤻ ֺ ᳞ ּ᤺﹢ 𝖺ⲒⲒ 𝗍𝗋𝗑 𝗇𝗈 𝗋𝖾𝖿𝖿٫ 𝗄𝖾𝖼 𝗄𝖾𝗌𝖺Ⲓ𝖺𝗁𝖺𝗇 𝖺𝖽𝗆𝗂𝗇!\n⟡᤻ ֺ ᳞ ּ᤺﹢ 𝗆𝖾𝗆𝖻𝖾Ⲓ𝗂 = 𝗉𝖺𝗁𝖺𝗆\n⟡᤻ ֺ ᳞ ּ᤺﹢ 𝗇𝗈 𝖼𝗈𝗉𝗒 𝗆𝗒 Ⲓ𝗂𝗌𝗍٫ 𝖼𝗈𝗉𝗒? 𝖽𝖾𝗇𝖽𝖺 𝗌𝖾𝗆𝖺𝗎𝗄𝗎!",
+          "media": null,
+          "createdAt": 1790878547952,
+          "updatedAt": 1790878547952,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "cv/jaspin": {
+          "key": "cv/jaspin",
+          "text": "𖧷‌  ִ  ֺ  ⁺  𝐉𝐀𝐒𝐀 𝐂𝐎𝐍𝐕𝐄𝐑𝐓 & 𝐉𝐀𝐒𝐏𝐈𝐍  ֵ   Ꭵ‌Ꭵ   ֹ \n                  `𝐒𝐇𝐄𝐑𝐈𝐍 𝐒𝐓𝐎𝐑𝐄`\n         ⊹  ׂׅ——ׂׅ—ׂׅ ——ׂׅ ࣪ ׅ୧ 𐘃 ୨⸼ – ׂׅ——ׂׅ—ׂׅ—ׂׅ  ⊹\n⊱  ֹ👧🏻  ׅ  𝗈𝗋𝖽𝖾𝗋 : \n- [ https://wa.me/6285757845929 ]\n           ۪   ׁ   ַ    ּ   ۫     ݂  ׄ   ۪  ׂ  ᮫   ׂ     ۪   ׁ   ַ    ּ   ۪   ׁ   ַ    ּ   ۫ \n   ᦥ  𓈒 ࣪ ࡚ ࣪𔘓  𝟣𝟢𝟢𝗉 - 𝟫𝟢𝟢𝗉 ⵂ 𝟪𝟢𝗉\n   ᦥ  𓈒 ࣪ ࡚ ࣪𔘓  𝟣𝗄 - 𝟧𝗄 ⵂ 𝟦𝟢𝟢𝗉\n   ᦥ  𓈒 ࣪ ࡚ ࣪𔘓  𝟧٫𝟣𝗄 - 𝟫𝗄 ⵂ 𝟩𝟢𝟢𝗉\n   ᦥ  𓈒 ࣪ ࡚ ࣪𔘓  𝟫٫𝟣𝗄 - 𝟣𝟧𝗄 ⵂ 𝟣.𝟢𝟢𝟢\n   ᦥ  𓈒 ࣪ ࡚ ࣪𔘓  𝟣𝟧٫𝟣𝗄 - 𝟤𝟢𝗄 ⵂ 𝟣.𝟧𝟢𝟢\n   ᦥ  𓈒 ࣪ ࡚ ࣪𔘓  𝟤𝟢٫𝟣𝗄 - 𝟧𝟢𝗄 ⵂ 𝟤.𝟪𝟢𝟢\n   ᦥ  𓈒 ࣪ ࡚ ࣪𔘓  𝟧𝟢٫𝟣𝗄 - 𝟣𝟢𝟢𝗄 ⵂ 𝟦.𝟢𝟢𝟢\n  ⟣ ׁ┅ׅ ┄ׁ ┅ׅ ┄ׁ ┅ׅ ┄ׁ  ⊱ ⊱ ⤹ ⌑ ⤸  ⊰ ⊰  ׅ┄ׁ ┅ׅ ┄ׁ ┅ׅ ┄ׁ ┅ׅ ⟢\nㅤㅤ┃  𓊔  𝅄 *𝐍𝐎𝐓𝐄*' 𓈄 𝅄  ๋\nⳊ    一    𝗆𝖾Ⲓ𝖺𝗒𝖺𝗇𝗂 𝖼𝗏 𝗀𝗈𝗉𝖺𝗒٫ 𝖽𝖺𝗇𝖺٫ 𝗌𝗉𝖺𝗒 & 𝖺ⲒⲒ 𝖾-𝗐𝖺ⲒⲒ𝖾𝗍 \nⳊ    一    𝗍𝖿 𝗌𝖾𝗌𝗎𝖺𝗂 𝗇𝗈𝗆𝗂𝗇𝖺Ⲓ٫ Ⲓ𝖾𝖻𝗂𝗁 𝗍𝖿? 𝗌𝖾𝖽𝖾𝗄𝖺𝗁!\nⳊ    一    𝖺ⲒⲒ 𝗍𝗋𝗑 𝗇𝗈 𝗋𝖾𝖿𝖿٫ 𝗆𝗄𝗌𝖺? 𝗋𝖾𝖿𝖿 𝗌𝖾𝗍𝖾𝗇𝗀𝖺𝗁\nⳊ    一    𝖼𝗈𝗉𝗒 𝗆𝗒 Ⲓ𝗂𝗌𝗍? 𝖽𝖾𝗇𝖽𝖺 𝗌𝖾𝗆𝖺𝗎𝗄𝗎\nⳊ    一    𝖻𝖾 𝗌𝗆𝖺𝗋𝗍 𝖻𝗎𝗒𝖾𝗋",
+          "media": null,
+          "createdAt": 1790878548016,
+          "updatedAt": 1790878548016,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "apk bioskop": {
+          "key": "apk bioskop",
+          "text": "ׄ   ׅ ᦈ  ׄ ┈ 🌷 ׅapk bioskop all film cuma 8.000 (only andro) ׄ  ˓˓  \n> contact order : wa.me/6285757845929\n𝅄 ׄ ⤮ ׅ 💌 ׄ ┈ *keuntungan nya apa ka?* \nׅ  ׄ 𐓟⃘  ׅ 👩🏻‍🌾֩֠  ˓˓  ׄ semua film bioskop masuk \nׅ  ׄ 𐓟⃘  ׅ 👩🏻‍🌾֩֠  ˓˓  ׄ squid game s1 s2 full ep, dilan, pabrik gula, jumbo, drakor, dracin, anime, dll ( semuanya ada ) \n ׅ   𐓟⃘  ׅ👩🏻‍🌾֩֠  ˓˓  ׄ unlimited, tanpa batas \nׅ  ׄ 𐓟⃘  ׅ 👩🏻‍🌾֩֠  ˓˓  ׄ wort it pokoknya!\n ׅ ׄ 𐓟⃘  ׅ 👩🏻‍🌾֩֠  ˓˓  ׄ bisa dijual kembali\n‎             ┄ֵ──꯭ׄ───ִ ⟡ ִ───꯭ׄ──ֵ┄\n\n *note for buyer :* \n┈ order tudep no rush/php\n┈ all trx no reff\n┈ no copy list and symbol, ngeyel? denda 50k + viralin!",
+          "media": null,
+          "createdAt": 1790878548524,
+          "updatedAt": 1790878548524,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "up subs ch wa": {
+          "key": "up subs ch wa",
+          "text": "*PRICELIST UPSUBS CH WA❕*\n*[ order pc sherin : wa.me/6285757845929 ]*\n50 subs ch wa : 4.700\n100 subs ch wa : 6.600\n150 subs ch wa : 8.200\n200 subs ch wa : 10.200\n250 subs ch wa : 11.800\n300 subs ch wa : 15.500\n350 subs ch wa : 18.300\n400 subs ch wa : 19.200\n500 subs ch wa : 22.000\n600 subs ch wa : 25.200\n700 subs ch wa : 29.300\n800 subs ch wa : 33.500\n900 subs ch wa : 36.500\n1000 subs ch wa : 40.000\n\nnote❕ \n- proses fast yaa!\n- beli yg banyak pastinya makin murah ya best🫰🏻\n- jika di web sudah done brrti bukan tanggung jawab sherin lagi.\n- selama di proses di larang order di tempat lain, langgar? angus no refund!\n- all trx no refff, mksa? reff 10%!\n- membeli = paham",
+          "media": null,
+          "createdAt": 1790878548791,
+          "updatedAt": 1790878548791,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "upfoll ig moots nolog": {
+          "key": "upfoll ig moots nolog",
+          "text": "𖧷‌  ִ  ֺ  ⁺  𝐏𝐑𝐈𝐂𝐄𝐋𝐈𝐒𝐓 𝐅𝐎𝐋𝐋𝐎𝐖𝐄𝐑𝐒 𝐈𝐆 𝐌𝐎𝐎𝐓𝐒  ֵ   Ꭵ‌Ꭵ   ֹ \n                               `𝐒𝐇𝐄𝐑𝐈𝐍 𝐒𝐓𝐎𝐑𝐄`\n                     ⊹  ׂׅ——ׂׅ—ׂׅ ——ׂׅ ࣪ ׅ୧ 𐘃 ୨⸼ – ׂׅ——ׂׅ—ׂׅ—ׂׅ  ⊹\n⊱  ֹ👧🏻  ׅ  𝗈𝗋𝖽𝖾𝗋 : \n- [ https://wa.me/6285757845929]\n           ۪   ׁ   ַ    ּ   ۫     ݂  ׄ   ۪  ׂ  ᮫   ׂ     ۪   ׁ   ַ    ּ   ۪   ׁ   ַ   \n> 𝐔𝐏𝐅𝐎𝐋𝐋 𝐍𝐎 𝐋𝐎𝐆 𝐈𝐍\n*followers 0 - 8.000*\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 175F : 15.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 350F : 20.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 525F : 25.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 700F : 30.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 875F : 35.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 1.050F : 40.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 1.225F : 45.000\n\n*followers 8.001 - 15.000*\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 150F : 15.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 300F : 20.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 450F : 25.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 600F : 30.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 750F : 35.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 900F : 40.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 1.050F : 45.000\n\n*followers 15.001+*\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 125F : 15.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 250F : 20.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 375F: 25.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 500F : 30.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 625F : 35.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 750F : 40.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 875F : 45.000\n\nㅤㅤ┃  𓊔  𝅄 *𝐍𝐎𝐓𝐄*' 𓈄 𝅄  ๋\nⳊ    一 alll berlaku kelipatan \nⳊ    一 upfoll dilakukan secara manual dan no login \nⳊ    一 followers PASIF indonesia ( BUKAN BOT ) \nⳊ    一 akun tidak boleh private selama upfoll\nⳊ    一 tidak perlu di follow balik.\nⳊ    一 all trx no reff!\nⳊ    一 membeli = paham!",
+          "media": null,
+          "createdAt": 1790878549187,
+          "updatedAt": 1790878549187,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "upfoll ig moots login": {
+          "key": "upfoll ig moots login",
+          "text": "𖧷‌  ִ  ֺ  ⁺  𝐏𝐑𝐈𝐂𝐄𝐋𝐈𝐒𝐓 𝐅𝐎𝐋𝐋𝐎𝐖𝐄𝐑𝐒 𝐈𝐆 𝐌𝐎𝐎𝐓𝐒  ֵ   Ꭵ‌Ꭵ   ֹ \n                               `𝐒𝐇𝐄𝐑𝐈𝐍 𝐒𝐓𝐎𝐑𝐄`\n                     ⊹  ׂׅ——ׂׅ—ׂׅ ——ׂׅ ࣪ ׅ୧ 𐘃 ୨⸼ – ׂׅ——ׂׅ—ׂׅ—ׂׅ  ⊹\n⊱  ֹ👧🏻  ׅ  𝗈𝗋𝖽𝖾𝗋 : \n- [ https://wa.me/6285757845929]\n           ۪   ׁ   ַ    ּ   ۫     ݂  ׄ   ۪  ׂ  ᮫   ׂ     ۪   ׁ   ַ    ּ   ۪   ׁ   ַ   \n> 𝐔𝐏𝐅𝐎𝐋𝐋 𝐋𝐎𝐆 𝐈𝐍\n  *followers 0 - 3.000*\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 200F : 15.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 400F : 20.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 600F : 25.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 800F : 30.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 1.000F : 35.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 1.200F : 40.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 1.400F : 45.000\n  \n*followers 3.001 - 6.000*\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 150F : 15.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 300F : 20.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 450F : 25.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 600F : 30.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 750F : 35.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 900F : 40.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 1.050F : 45.000\n\n*followers 6.001+*\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 125F : 15.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 250F : 20.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 375F : 25.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 500F : 30.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 625F : 35.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 750F : 40.000\nᦥ  𓈒 ࣪ ࡚ ࣪𔘓 875F : 45.000\n\nㅤㅤ┃  𓊔  𝅄 *𝐍𝐎𝐓𝐄*' 𓈄 𝅄  ๋ \nⳊ    一 all berlaku kelipatan \nⳊ    一 upfoll dilakukan secara manual dan log in \nⳊ    一 followers AKTIF indonesia hasil mutualan sesama akun RL ( BUKAN BOT )\nⳊ    一 akun tidak boleh di private selama upfoll\nⳊ    一 all trx no reff!\nⳊ    一 membeli = paham!",
+          "media": null,
+          "createdAt": 1790878549538,
+          "updatedAt": 1790878549538,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "upcomment": {
+          "key": "upcomment",
+          "text": "*🌸UPCOMMENT*\n20C : 11.000\n40C : 14.000\n60C : 17.000\n80C : 20.000\n100C : 23.000\n\nㅤㅤ┃  𓊔  𝅄 *𝐍𝐎𝐓𝐄*' 𓈄 𝅄  ๋ \nⳊ    一 bisa request jenis komentar yang diinginkan.\nⳊ    一 komentar dari akun PASIF INDONESIA (bukan bot)\nⳊ    一 akun tidak boleh diprivate selama upcomment. \nⳊ    一 all trx no reff!\nⳊ    一 membeli = paham!",
+          "media": null,
+          "createdAt": 1790878549930,
+          "updatedAt": 1790878549930,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "uplike nolog": {
+          "key": "uplike nolog",
+          "text": "*🌸UPLIKE NO LOGIN*\n150L : 20.000\n300L : 25.000\n450L : 30.000\n600L : 35.000\n750L : 40.000\n900L : 45.000\n\nㅤㅤ┃  𓊔  𝅄 *𝐍𝐎𝐓𝐄*' 𓈄 𝅄  ๋ \nⳊ    一 uplike manual *tidak permanen*\nⳊ    一 likes dari akun PASIF INDONESIA (bukan bot)\nⳊ    一 all trx no reff!\nⳊ    一 membeli = paham!",
+          "media": null,
+          "createdAt": 1790878550431,
+          "updatedAt": 1790878550431,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "dana pinjam": {
+          "key": "dana pinjam",
+          "text": "🌸*fee dapin@arisan.by_sherinn*\n1k - 30k = bunga 9k/day\n31k - 40k = bunga 10k/day\n41k - 50k = bunga 20k/day\n51k - 100k = bunga 25k/day \n101k - 200k = bunga 30k/day\n*NOTE FOR DAPIN‼️*\n- send ident di awal\n- new mem max 30k\n- limit bisa naik klo udah dapin 3x\n- max bck jam 18.00 wib, lewat? denda 10k awal/jam‼️\n- telat bck 2hari langsung hubungi kondar!\n- telat bck 3hari langsung di viralkan di all platform!",
+          "media": null,
+          "createdAt": 1790878551122,
+          "updatedAt": 1790878551122,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "about app prem": {
+          "key": "about app prem",
+          "text": "*about app prem sherin store!*\njangan lupa literasi ya best kuu🙇🏻‍♀️\nhttps://t.me/penjelasanapppremsherin\n_membeli = paham & tanggung resiko apapun yaa💞_",
+          "media": null,
+          "createdAt": 1790878597070,
+          "updatedAt": 1790878597070,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "about kebsos": {
+          "key": "about kebsos",
+          "text": "*about kebsos sherin store* \njangan lupa literasi ya best kuu🙇🏻‍♀️\nhttps://wa.me/p/24469590139331381/6285757845929\n_membeli = paham & tanggung resiko apapun yaaa💞_,",
+          "media": null,
+          "createdAt": 1790878597125,
+          "updatedAt": 1790878597125,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "about nokos": {
+          "key": "about nokos",
+          "text": "*about nokos sherin store!*\njangan lupa literasi ya best kuu🙇🏻‍♀️\nhttps://wa.me/p/24010273995267185/6285757845929\n_membeli = paham & tanggung resiko apapun yaa💞_",
+          "media": null,
+          "createdAt": 1790878597562,
+          "updatedAt": 1790878597562,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "rules upfoll login": {
+          "key": "rules upfoll login",
+          "text": "*★RULES UPFOLL LOGIN‼️*\n1. Mengisi format dengan LENGKAP dan melakukan pembayaran diawal.\n2. Upfoll dilakukan setelah melakukan pembayaran dan memberikan BUKTI.\n3. Upfoll dilakukan secara manual dan mutualan, harap bersabar karena prosesnya tergantung keadaan akun juga.\n4. Jika mengganti username atau password segera konfirmasi ke kami.\n5. Tidak menggunakan jasa upfoll lain apapun sistemnya.\n6. Akun tidak diprivate.\n7. Tidak melakukan proses upfoll sendiri selama upfoll belum selesai.\n8. Apabila akun belum diproses lebih dari 24 jam tanpa konfirmasi kendala harap LAPOR ke kami.\n9. Tidak melakukan pembersihan (unfoll akun) selama upfoll berlangsung.\n10. Jika akun kebanned, bukan tanggung jawab sherin. Tapi akan tetap sherin coba semaksimal mungkin agar akun aman.\n11. Tidak bisa REFUND apabila bukan kesalahan sherin.\n12. Followers TIDAK ADA yang permanen.",
+          "media": null,
+          "createdAt": 1790878598009,
+          "updatedAt": 1790878598009,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "rules upfoll nolog": {
+          "key": "rules upfoll nolog",
+          "text": "*★RULES UPFOLL NO LOGIN‼️*\n1. Mengisi format dengan lengkap dan melakukan pembayaran di awal.\n2. Upfoll dilakukan setelah melakukan pembayaran dan memberikan bukti transfer.\n3. Proses upfoll dilakukan secara manual, mohon bersabar.\n4. Jika mengganti username, segera konfirmasi ke kami.\n5. Tidak diperkenankan menggunakan jasa upfoll lain, apapun sistemnya.\n6. Akun tidak boleh diprivate, jika diprivate maka proses akan dihentikan sementara.\n7. Tidak melakukan proses upfoll sendiri selama upfoll kami belum selesai.\n8. Jika akun belum diproses lebih dari 24 jam tanpa konfirmasi kendala, harap lapor ke kami.\n9. Jangan melakukan pembersihan (unfoll akun) selama proses upfoll berlangsung.\n10. Akun harus diatur agar followers yang masuk tidak perlu ditinjau/approve secara manual (akan diberikan panduan saat order).\n11. Tidak bisa refund apabila bukan kesalahan sherin.\n12. Followers TIDAK ADA yang permanen.",
+          "media": null,
+          "createdAt": 1790878598694,
+          "updatedAt": 1790878598694,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "rules uplike nolog": {
+          "key": "rules uplike nolog",
+          "text": "*★RULES UPLIKE NO LOGIN‼️*\n1. Mengisi format dengan LENGKAP dan melakukan pembayaran diawal.\n2. Uplike dilakukan setelah melakukan pembayaran dan memberikan BUKTI.\n3. Uplike dilakukan secara manual, harap bersabar.\n4. Jika mengganti username segera konfirmasi ke kami.\n5. Tidak menggunakan jasa uplike lain apapun sistemnya.\n6. Akun tidak diprivate, jika diprivate, maka proses akan dihentikan sementara.\n7. Tidak melakukan proses uplike sendiri selama uplike belum selesai.\n8. Apabila akun belum diproses lebih dari 24 jam tanpa konfirmasi kendala harap LAPOR ke kami.\n9. Jumlah likesnya tidak boleh disembunyikan selama uplike untuk memudahkan admin.\n10. Tidak bisa REFUND apabila bukan kesalahan sherin.\n11. Likes tidak permanen.",
+          "media": null,
+          "createdAt": 1790878598942,
+          "updatedAt": 1790878598942,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "grub dapin & invest": {
+          "key": "grub dapin & invest",
+          "text": "*grub dapin & invest @arisan.by_sherinn💞👇🏻*\nhttps://chat.whatsapp.com/I0s36Bhlcyj7ULq9AFoiop?s=cl&p=a&mlu=4&ilr=4",
+          "media": null,
+          "createdAt": 1790878599325,
+          "updatedAt": 1790878599325,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "grub arisan": {
+          "key": "grub arisan",
+          "text": "*grub utama @arisan.by_sherinn💞👇🏻* https://chat.whatsapp.com/DDaDWjlYgz4Kw0mGQhXYko?s=cl&p=a&mlu=4&ilr=4",
+          "media": null,
+          "createdAt": 1790878599672,
+          "updatedAt": 1790878599672,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        },
+        "sewa": {
+          "key": "sewa",
+          "text": "*PRICELIST SEWA BOT BY SHERIN*\n> order or tnya² pc me : wa.me/6285757845929\n10k = 30 day\n20k = 60 day\n30k = 90 day\n40k = 120 day\n45k = 150 day\n50k = 180 day\n\nNote ; \n- bot always on 24 jam no mati² ya bestt kec no ke banned\n- bisa untuk smua jenis grub, kec grub 18+\n- fitur? pasti banyak dong guyss!!",
+          "media": null,
+          "createdAt": 1790879608290,
+          "updatedAt": 1790879608290,
+          "addedBy": "6283872659753",
+          "updatedBy": "6283872659753"
+        }
+      },
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "120363423861243664@g.us": {
+      "name": "",
+      "antilink": false,
+      "antilink2": true,
+      "antilinkKick": true,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "120363420896112832@g.us": {
+      "name": "",
+      "antilink": false,
+      "antilink2": true,
+      "antilinkKick": true,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "120363400911374213@newsletter": {
+      "name": "",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "120363429915161632@g.us": {
+      "name": "",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "120363404879737552@g.us": {
+      "name": "",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    }
+  },
+  "users": {
+    "6282389924037@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "6283187938514@s.whatsapp.net@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "": {
+      "name": "",
+      "warn": 0
+    },
+    "247278463934489@lid": {
+      "name": "",
+      "warn": 0
+    },
+    "32498457322@s.whatsapp.net@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "6283872659753@s.whatsapp.net@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "6283872659753@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "108968353525869@lid": {
+      "name": "",
+      "warn": 0
+    },
+    "242137790681132@lid": {
+      "name": "",
+      "warn": 0
+    },
+    "155563866480763@lid": {
+      "name": "",
+      "warn": 0
+    },
+    "2348063830302@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "639629809204@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "212693945711@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "53211054485633@lid": {
+      "name": "",
+      "warn": 0
+    },
+    "6285782290854@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "6285757845929@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "120363400911374213@newsletter": {
+      "name": "",
+      "warn": 0
+    },
+    "6285126314468@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "6283186334685@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "6281211815070@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    }
+  },
+  "settings": {
+    "self": false,
+    "prefix": ".",
+    "autoread": true,
+    "owners": [
+      "6285757845929"
+    ],
+    "autobackup": {
+      "enabled": true,
+      "intervalHours": 24,
+      "lastBackup": 1790876953551
+    },
+    "templates": {}
+  }
+}
